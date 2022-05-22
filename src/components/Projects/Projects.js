@@ -48,7 +48,7 @@ function Projects() {
             {projectsData.length > 0 && (
                 <div className="projects" id="projects" style={{backgroundColor: theme.secondary}}>
                     <div className="projects--header">
-                        <h1 style={{color: theme.primary}}>Projects (Deployment in progress, plan to finish by 5/22/22)</h1>
+                        <h1 style={{color: theme.primary}}>Projects</h1><h3> (Several completed projects are currently being added the week of May 23rd)</h3>
                     </div>
                     <div className="projects--body">
                         <div className="projects--bodyContainer">
