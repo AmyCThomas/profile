@@ -25,7 +25,7 @@ export const projectsData = [
         id: 2,
         projectName: 'ArtPod',
         projectDesc: 'Front end of ArtPod, the news search/art search functional, though I will be doing some work to unify the styling between these two components, as they were originally part of seperate pojects. This I plan to do within the week, and am currently (May 24th-25th) working on backend deploy, for the forum an sign-up, login functionality, as Hroku currently is not allowing me to connect to Github for my Django/postgres backend, which hopefully will be resolved shortly.  A goal I have for within the next month will be to add a searchable databse of art fairs and contest, based on date and location.  This, which was my original main idea for the site, is occuring later than planned as I discovered that there wasn\'t an API that existed which was also working (and free) that would provide this, so I will be working on some webscraping for this component.  Please check back soon for this, and for more projects being uploaded within the next few days, as well as some other functionality to this site! Thank you! -Amy Thomas, May 24th',
-        tags: ['',''],
+        tags: ['Django-Python','React-Node.js','PostgreSQL','HTML5 & CSS', 'and more'],
         code: 'https://github.com/amycthomas/ArtPodFull',
         demo: 'https://628d4740947a2b00091ded6f--thunderous-scone-8e534d.netlify.app/',
         image: "https://screenshot-proxy.netlify.app/f_jpg,w_336/https:/d33wubrfki0l68.cloudfront.net/628d4740947a2b00091ded6f/screenshot_2022-05-24-21-00-46-0000.png"
@@ -34,7 +34,7 @@ export const projectsData = [
 
 // {
 //     id: 3,
-//     projectName: 'ArtPod (coming very soon - by may-25',
+//     projectName: '',
 //     projectDesc: '',
 //     tags: ['',''],
 //     code: '',
