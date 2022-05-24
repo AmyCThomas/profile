@@ -32,15 +32,15 @@ export const projectsData = [
     },
 ]
 
-{
-    id: 3,
-    projectName: 'ArtPod (coming very soon - by may-25',
-    projectDesc: '',
-    tags: ['',''],
-    code: '',
-    demo: '',
-    image: ""
-},
+// {
+//     id: 3,
+//     projectName: 'ArtPod (coming very soon - by may-25',
+//     projectDesc: '',
+//     tags: ['',''],
+//     code: '',
+//     demo: '',
+//     image: ""
+// },
 
 // Do not remove any fields.
 // Leave it blank instead as shown below
