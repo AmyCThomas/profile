@@ -9,7 +9,7 @@
     'Python',
     'Bootstrap',
     'Node JS',
-    'Next JS'
+    'Next JS',
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
