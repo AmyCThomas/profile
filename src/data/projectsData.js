@@ -18,7 +18,7 @@ export const projectsData = [
         tags: ['HTML', 'CSS','Javascript','Nextjs','next.js','netlify', 'api','python'],
         code: 'https://github.com/amycthomas/WhattoPaint',
         demo: 'https://6289c3b3d397810f081c4f38--moonlit-rolypoly-6a3464.netlify.app/o',
-        image: "https://screenshot-proxy.netlify.app/f_avif,w_336/https://d33wubrfki0l68.cloudfront.net/628a99b38372441a0f7a7617/screenshot_2022-05-22-20-15-47-0000.png"
+        image: "https://screenshot-proxy.netlify.app/f_avif,w_336/https:/d33wubrfki0l68.cloudfront.net/628d4740947a2b00091ded6f/screenshot_2022-05-24-21-00-46-0000.png"
     },
 
     {
@@ -28,7 +28,7 @@ export const projectsData = [
         tags: ['Django-Python','React-Node.js','PostgreSQL','HTML5 & CSS', 'and more'],
         code: 'https://github.com/amycthomas/ArtPodFull',
         demo: 'https://628d4740947a2b00091ded6f--thunderous-scone-8e534d.netlify.app/',
-        image: 'https://screenshot-proxy.netlify.app/f_avif,w_336/https:/d33wubrfki0l68.cloudfront.net/628d4740947a2b00091ded6f/screenshot_2022-05-24-21-00-46-0000.png'
+        image: "https://screenshot-proxy.netlify.app/f_avif,w_336/https://d33wubrfki0l68.cloudfront.net/628d4740947a2b00091ded6f/screenshot_2022-05-24-21-00-46-0000.png"
     },
 ]
 

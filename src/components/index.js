@@ -11,7 +11,7 @@ export { default as Experience } from'./Experience/Experience'
 export { default as Contacts } from'./Contacts/Contacts'
 export { default as Projects } from'./Projects/Projects'
 export { default as Services } from'./Services/Services'
-export { default as SingleProject } from './Projects/SingleProject/SingleProject'
+export { default as SingleProject } from './Blog/SingleProject/SingleProject'
 export { default as SingleService } from './Services/SingleService/SingleService'
 export { default as Achievement } from './Achievement/Achievement'
 

@@ -7,7 +7,7 @@ import { projectsData } from '../../data/projectsData'
 import { HiArrowRight } from "react-icons/hi";
 
 import './Projects.css'
-import SingleProject from './SingleProject/SingleProject';
+import SingleProject from '../Blog/SingleProject/SingleProject';
 
 function Projects() {
 
