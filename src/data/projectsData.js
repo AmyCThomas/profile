@@ -23,8 +23,8 @@ export const projectsData = [
 
     {
         id: 2,
-        projectName: 'ArtPod',
-        projectDesc: 'Front end of ArtPod, the news search/art search functional, though I will be doing some work to unify the styling between these two components, as they were originally part of seperate pojects. This I plan to do within the week, and am currently (May 24th-25th) working on backend deploy, for the forum an sign-up, login functionality, as Hroku currently is not allowing me to connect to Github for my Django/postgres backend, which hopefully will be resolved shortly. I\'d also like to add a database for art shows and contests, whi will come from webscraping  Please check back soon for this, and for more projects being uploaded within the next few days! Thank you! -Amy Thomas, May 24th',
+        projectName: 'ArtPod (Front end)',
+        projectDesc: 'I will be doing some work to unify the styling between the news and art searches,  as they were originally part of seperate pojects. This I plan to do within the week, and am currently (May 24th-25th).  The backend will add log in and forum functionality, which is complete and should be up before the end of May, as Hroku currently is not allowing me to connect to Github for some reason, which hopefully will be resolved shortly. I\'d also like to add a database for art shows and contests, which will come from webscraping  Please check back soon for this, and for more projects being uploaded within the next few days! Thank you! -Amy Thomas, May 24th',
         tags: ['Django-Python','React-Node.js','PostgreSQL','HTML5 & CSS', 'and more'],
         code: 'https://github.com/amycthomas/ArtPodFull',
         demo: 'https://628d4740947a2b00091ded6f--thunderous-scone-8e534d.netlify.app/',
